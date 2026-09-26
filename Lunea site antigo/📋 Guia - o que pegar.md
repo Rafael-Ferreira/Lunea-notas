@@ -85,6 +85,31 @@ Lunea-site-antigo/imagens/
 
 ---
 
+## 🧩 Código dos apps (html / css / js)
+
+Os apps que estavam embutidos nas páginas foram separados e estão no **Google Drive**:
+
+```
+Lunea-site-antigo/apps/
+├── LEIA-ME.md
+├── Dispara/          ← original.html + index.html + css/style.css + js/script-1.js
+├── Disparador-Ecompo/
+├── ECOMPO/
+├── App-Obras/
+├── Area/
+├── Sorteio-Copa-2026/
+├── Portfolio-Landing-Pages/
+├── Raspador/
+├── Template-Logica-Atend/
+└── Dispara-Cardapio/
+```
+
+> ⚠️ O app **Dispara** tem uma **chave do Evolution API exposta no código**.
+> O domínio (`evo.lunea.dev.br`) não resolve mais, mas se o serviço existir em
+> outro endereço, **troque a chave**.
+
+---
+
 ## 🧾 Resumo do que eu pegaria
 
 1. **Os textos das landing pages** — Escritório de Advocacia com IA, Landing Pages para
